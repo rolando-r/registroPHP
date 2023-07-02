@@ -1,0 +1,30 @@
+body{
+    background-image: url(/images/fondo.jpg);
+}
+h1{
+    text-align: center;
+}
+nav{
+    background-color: blueviolet;
+    padding: 20px;
+}
+.btn{
+    background-color: blueviolet;
+    border-color: rgb(148, 57, 233);
+    color: black;
+}
+label{
+    padding: 3px;
+}
+.imagenCam{
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+.emoji1{
+    display: none;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
