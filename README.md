@@ -14,12 +14,12 @@ Project created to filter new campers by groups, the available groups are Apolo,
 To deploy this project run
 
 ```bash
-  dotnet run
+  php -S localhost:3000
 ```
 
 ## Documentation
 
-[C# docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[PHP docs](https://www.php.net/manual/es/intro-whatis.php)
 
 ## Run Locally
 
